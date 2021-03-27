@@ -4,6 +4,7 @@
   - Getting and Cleaning Data
   - Exploratory Data Analysis
   - Reproducible Research
+  
   Data Science: Statistics and Machine Learning Specialization 
   - Statistical Inference
   - Regression Models
