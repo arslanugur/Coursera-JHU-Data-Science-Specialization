@@ -1,4 +1,4 @@
-#Coursera-Data-Science-Specialization-by-TheJohnsHopkinsUni
+Coursera Data Science Specialization by The Johns Hopkins Uni
   - The Data Scientist's Tools
   - R Programming
   - Getting and Cleaning Data
