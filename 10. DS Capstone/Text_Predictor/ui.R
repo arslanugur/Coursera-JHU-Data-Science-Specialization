@@ -23,7 +23,7 @@ shinyUI(fluidPage(
             h5("2. The predicted next word prints below it in green."),
             h5("3. No need to hit enter of submit."),
             h5("4. A question mark means no prediction, due to typo or swear words inserted"),
-            a("Source Code GitHub Repository", href = "https://github.com/aashay15/DS-Capstone")
+            a("Source Code GitHub Repository", href = "https://github.com/arslanugur/Data-Science-Specialization-by-Johns-Hopkins-Uni/blob/arslan/10.%20DS%20Capstone")
         ),
 
         # Show a plot of the generated distribution
